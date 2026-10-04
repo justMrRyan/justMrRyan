@@ -56,7 +56,6 @@ while (alive) {
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=justMrRyan&show_icons=true&theme=radical)
 
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justMrRyan&layout=compact&theme=radical)
 
 ---
